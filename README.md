@@ -16,7 +16,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Google Looker Studio](https://img.shields.io/badge/-Google%20Looker%20Studio-black?style=flat-square&logo=Google%20Looker%20Studio)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-black?style=flat-square&logo=Looker%20Studio)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
