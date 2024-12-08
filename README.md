@@ -1,8 +1,8 @@
 ### Hi there, I'm Muhammad Syarif Hidayat ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-- :flexed_biceps: I'm passionate about making an impact and solving real problems
+- 💪 I'm passionate about making an impact and solving real problems
 - :books: Lifelong Learner
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad-Syarif-Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadsyarifhidayat)](https://www.linkedin.com/in/muhammadsyarifhidayat)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadsyarifhidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadsyarifhidayat)](https://www.linkedin.com/in/muhammadsyarifhidayat)
 [![Gmail Badge](https://img.shields.io/badge/-mshidayat66@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshidayat66@gmail.com)](mailto:mshidayat66@gmail.com)
 
 ## ⚡ Technology Stacks
